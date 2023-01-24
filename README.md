@@ -24,7 +24,6 @@ _If you have any issues running this program or wish to contact me please email 
 
 Copyright (c) 2023 Mitchell Gantz
 
-
 Tests: 
 placesBeen();
 
